@@ -1,10 +1,10 @@
-import React from 'react';
+
 
 
 function App() {
   return (
-    <div className="">
-      <h1>Fala tu Dev!</h1>
+    <div >
+      <h1 className="text-primary">Fala tu Dev!</h1>
     </div>
   );
 }
